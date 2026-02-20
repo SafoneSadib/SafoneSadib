@@ -3,6 +3,5 @@
 <p align="center">
  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SafoneSadib&show_icons=true&count_private=true&theme=chartreuse-dark" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SafoneSadib&layout=compact&theme=chartreuse-dark" />
+  <img src="https://github-profile-trophy.vercel.app/?username=SafoneSadib&theme=algolia&no-frame=true&row=1&column=6" />
 </p>
