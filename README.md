@@ -1,2 +1,2 @@
-👋 Hi, I'm Safwan Sadib
+👋 Hi, I'm Safone Sadib
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=CSE+Student+at+AIUB;C%2B%2B+%7C+Java+Developer;Web+Technology+Learner;Future+Software+Engineer;Cyber+Security+Enthusiast" /> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=SafoneSadib&label=Profile%20Views&color=0e75b6&style=flat" /> </p>
