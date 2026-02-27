@@ -1,7 +1,7 @@
-```markdown
-<h1 align="center">⚡ Safwan Sadib ⚡</h1>
 
-<h3 align="center">💻 Cyber Security Enthusiast | CSE Student | Future Hacker</h3>
+<h1 align="center">⚡ Safoan Sadib ⚡</h1>
+
+<h3 align="center">💻 Cyber Security Enthusiast | CSE Student | </h3>
 
 ---
 
